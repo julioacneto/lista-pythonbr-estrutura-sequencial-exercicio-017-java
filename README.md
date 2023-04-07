@@ -1,0 +1,19 @@
+# Estrutura Sequencial
+
+## Projeto consiste em aprimorar e aprofundar conhecimentos com a linguagem Java, utilizando uma lista de atividades propostas pela comunidade Python Brasil
+
+![Image](https://wiki.python.org.br/pybr/img/pythonbrasil_logo.png)
+
+[Lista de exercícios](https://wiki.python.org.br/EstruturaSequencial)
+
+---
+
+## Exercício 017
+
+- [x] Faça um Programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
+Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
+    1. comprar apenas latas de 18 litros;
+    2. comprar apenas galões de 3,6 litros;
+    3. misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+
+### Aluno: Julio Neto
